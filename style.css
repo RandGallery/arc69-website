@@ -5,3 +5,9 @@ body {
   letter-spacing: 0.25px;
   text-align: center;
 }
+
+a {
+  display: block;
+  color: #0af;
+  margin: 16px;
+}
