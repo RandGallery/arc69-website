@@ -11,3 +11,5 @@ yarn install
 # Start dev server
 yarn start
 ```
+
+<img src="./images/logo-v1.svg">
