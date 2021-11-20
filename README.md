@@ -12,4 +12,4 @@ yarn install
 yarn start
 ```
 
-<img src="./images/logo-v1.svg">
+<img src="./images/logo-v2.svg">
